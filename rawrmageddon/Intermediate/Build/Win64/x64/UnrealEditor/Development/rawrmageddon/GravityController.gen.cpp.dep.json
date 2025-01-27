@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\wjfgi\\downloads\\rawrmageddon\\rawrmageddon\\rawrmageddon\\intermediate\\build\\win64\\unrealeditor\\inc\\rawrmageddon\\uht\\gravitycontroller.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\wjfgi\\downloads\\rawrmageddon\\rawrmageddon\\rawrmageddon\\intermediate\\build\\win64\\x64\\rawrmageddoneditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "d:\\wjfgi\\downloads\\rawrmageddon\\rawrmageddon\\rawrmageddon\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\rawrmageddon\\definitions.rawrmageddon.h",
+            "d:\\wjfgi\\downloads\\rawrmageddon\\rawrmageddon\\rawrmageddon\\source\\rawrmageddon\\gravitycontroller.h",
+            "d:\\wjfgi\\downloads\\rawrmageddon\\rawrmageddon\\rawrmageddon\\intermediate\\build\\win64\\unrealeditor\\inc\\rawrmageddon\\uht\\gravitycontroller.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
